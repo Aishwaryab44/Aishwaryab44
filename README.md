@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">A passionate QA Engineer from</h3>
+<h3 align="center">A passionate QA Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwaryab44&label=Profile%20views&color=0e75b6&style=flat" alt="aishwaryab44" /> </p>
 
@@ -7,9 +7,19 @@
 
 - 🔭 I’m currently working on **Selenium, Java and testNG**
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently learning **Appium, Mobile Automation, REST assured**
 
-- 💬 Ask me about **java, selenium, testNG**
+- 👯 I’m looking to collaborate on **AIP Testing, Selenium, Automation Frameworks**
+
+- 🤝 I’m looking for help with **Playwright, Jenkins, Cypress**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Aishwaryab44](https://github.com/Aishwaryab44)
+
+- 💬 Ask me about **Selenium, SDET, Java, Postman,**
+
+- 📫 How to reach me **bhaleraoaishwarya8@gmail.com**
+
+- 📄 Know about my experiences [http://linkedin.com/in/aishwarya-bhalerao-](http://linkedin.com/in/aishwarya-bhalerao-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
